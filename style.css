@@ -1,0 +1,22 @@
+body{
+    background: black;
+}
+
+h1{
+    color: black;
+    background-color: burlywood;
+    text-align: center;
+
+
+}
+
+.input-text{
+    width: 50px;
+    height: 120px;
+
+}
+
+
+.asd{
+    color: yellow;
+}
